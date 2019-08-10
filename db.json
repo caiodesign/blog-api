@@ -2,6 +2,7 @@
     "posts": [
         {
             "id": 1,
+            "category": "music",
             "title": "Top Deejay headphones",
             "author": "John Doe",
             "content": "Many years ago, I worked for my parents who own a video production company. Because it is a family business, you inevitably end up wearing many hats and being the czar of many different jobs. I mainly managed projects and worked as a video editor.",
@@ -9,6 +10,7 @@
         },
         {
             "id": 2,
+            "category": "general",
             "title": "Trust in your intuition",
             "author": "Jennifer Freeman",
             "content": "Once I gave the headphones a thorough once-over exam, I tried them on. As I mentioned, they have a classic over-the-ear style and just looking at them, the padding on the ear pieces seem adequate and the peak of the headband seemed to be a bit lacking, but you don’t really know comfort unless you try on the product.",
@@ -16,6 +18,7 @@
         },
         {
             "id": 3,
+            "category": "work",
             "title": "Working from your home?",
             "author": "Willie Clark",
             "content": "Naturally, my first impression of these headphones is based off of the look of them. They have a classic over-the-ear style that is highlighted by a blue LED light that indicates the power for the noise canceling. The padding on the ear pieces seems adequate for extended usage periods.",
